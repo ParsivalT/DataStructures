@@ -1,0 +1,23 @@
+# Arquivos de compilação C e executáveis
+*.o
+*.out
+*.exe
+
+# Arquivos temporários gerados pela compilação
+*.dSYM/
+
+# Arquivos de log de depuração
+*.log
+
+# Arquivos de biblioteca gerados pela compilação
+*.a
+*.so
+
+# Arquivos gerados pela IDE (por exemplo, Visual Studio Code)
+.vscode/
+
+# Arquivos gerados por sistemas de construção (por exemplo, CMake)
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakeScripts/
